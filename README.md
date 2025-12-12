@@ -134,6 +134,8 @@ FILOGENIAS/
 ```
 ## Explicación del contenido de las carpetas
 
+En la carpeta `Docs`, hemos puesto el reporte completo de nuestro trabajo y nuestra exposición.
+
 Las carpetas `LWS`, `RH1`, `SWS` son para los genes, y `Ancestor Analysis` es la que contiene el análisis de ancestros para todos en general.
 
 En `LWS` estan las carpetas `LWS Exon 1 Amplicon` y `LWS Exons`. Dentro de ambas carpetas, estan los siguientes archivos:
