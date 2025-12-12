@@ -130,3 +130,18 @@ Filogenias/
 |
 | - Readme.md (Este archivo)
 ```
+## Explicación del contenido de las carpetas
+
+Las carpetas `LWS`, `RH1`, `SWS` son para los genes, y `Ancestor Analysis` es la que contiene el análisis de ancestros para todos en general.
+
+En `LWS` estan las carpetas `LWS Exon 1 Amplicon` y `LWS Exons`. Dentro de ambas carpetas, estan los siguientes archivos:
+- `Caption Tree` que son los que generan el programa MEGA cuando hacemos el árbol.
+- Un archivo `MEG`, que es el archivo para abrir la secuencia.
+- Un `PNG` asociado al árbol para cada uno de estos.
+- Un archivo `TXT`, que es un archivo donde se tienen las secuencias en crudo.
+- Un `PDF` que siempre termina en Model Analysis, que tiene que ver con el análisis de AICO.
+- Una carpeta `Sessions`. En esta carpeta tenemos dos archivos para directamente para `MEG`, listos para abrir o cargar ya la secuencia alineada o abrir los árboles. 
+
+Es un caso análogo para la carpeta `SWS1` y `RH1`, solo que tenemos una única carpeta `RH1 Exons`. Dentro de ella tenemos una carpeta `Sessions`, `Caption Tree`, `RH1`, el archivo `MEG`, el `TXT`, el `PNG` y el `PDF`. En `SWS1` tenemos las carpetas `SWS Exons` y `SWS1`, para Baja, Intrones, Exones, y tienen la misma estructura todos. 
+
+En `Ancestral Analysis`, tenemos las carpeta `LWS`, RH1 y SWS. Estas son carpetas. Cada uno de estos tiene un archivo llamado Ancestral States Details, que son como un detalle del análisis ancestral. Changes List, que es una lista de cambios. Dos PNG, que son los árboles de las reconstrucciones ancestrales, uno con número y otro sin número, por eso uno está así y luego otro que dice barra baja Numbers. Most Probable Sequences, un archivo de secuencias más probables, y un archivo de estados ancestrales. Y así es para todas.
