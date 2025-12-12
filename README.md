@@ -13,12 +13,14 @@
 
 ## Organización de Carpetas
 ```
-Filogenias/
+Proyecto Final/
 |
 | - Docs/
 |   |
 |   | - Evolución_molecular_de_opsinas_visuales_en_Cetacea__análisis_filogenético_de_la_transición_terrestre_acuática.pdf (Reporte de nuestro trabajo)
 |   | - Exposición.pdf
+|
+FILOGENIAS/
 |
 | - Ancestors Analysis/  (Cuidado con estas, fueron todas hechas sobre el arbol de LWS)
 |   |
