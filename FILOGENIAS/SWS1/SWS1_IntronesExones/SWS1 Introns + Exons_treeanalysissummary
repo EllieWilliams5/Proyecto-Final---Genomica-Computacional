@@ -1,0 +1,78 @@
+;   MEGA 12 (Molecular Evolutionary Genetics Analysis)
+;
+;   Suggested Citation for MEGA 12:
+;
+;   Kumar S, Stecher G, Suleski M, Sanderford M, Sharma S, and Tamura K.
+;   Molecular Evolutionary Genetics Analysis Version 12 for adaptive and green computing.
+;   Molecular Biology and Evolution (2024) 41:1-9
+
+[Application Info]
+
+	Version                                 = 12.0.14
+	Build                                   = 12250820-x86_64
+	User Interface                          = Graphical
+	Operating System                        = windows
+
+[General Info]
+
+	Data Type                               = nucleotide (non-coding)
+	No. of Taxa                             =       34
+	No. of Sites                            =      739
+	Data File                               = SEQ1.meg
+
+[Analysis Settings]
+
+	Statistical Method                      = Maximum Likelihood
+	Test of Phylogeny                       = Standard Bootstrap (slow)
+	Bootstrap Replicates                    = 1000
+	Substitutions Type                      = Nucleotide
+	Model/Method                            = Tamura 3=parameter model
+	Rates among Sites                       = Gamma Distributed With Invariant Sites (G+I)
+	No of Discrete Gamma Categories         = 4
+	Gaps/Missing Data                       = Partial deletion
+	Site Coverage Cutoff (%)                = 95
+	Initial Tree for ML                     = Make initial tree automatically (Default = NJ/MP)
+	Branch Swap Filter                      = None
+	Number of Threads                       = 4
+
+[Analysis Statistics]
+
+	Start Time                              = 05/12/2025 10:18:38
+	End Time                                = 05/12/2025 10:34:29
+	Execution Time                          =  951.443 (seconds)
+	ML Tree Search Start Time               = 05/12/2025 10:18:38
+	ML Tree Search End Time                 = 05/12/2025 10:18:38
+	ML Tree Search Execution Time           =    0.669 (seconds)
+	ML Tree Search Memory Used              =    9.742 (MB)
+	Sum of branch lengths                   =    0.608
+	Model                                   = Tamura (1992) model (+G+I)
+	No. of params                           =       69
+	No. of rates                            =        4
+	AICc                                    = 6895.239
+	BIC                                     = 7455.591
+	LnL                                     = -3378.426
+	No. of sites                            = 739
+	No. of common sites                     = 697
+	No. of invar sites                      = 431
+	No. of gap sites                        = 0
+	Site coverage                           = 33
+	Use invar                               = True
+	Invar                                   = n/a
+	Gamma                                   = 2.19419
+	Ts/Tv                                   =    2.528
+	Rate[1]                                 = 0.32
+	Rate[2]                                 = 0.67
+	Rate[3]                                 = 1.07
+	Rate[4]                                 = 1.94
+	r(A->T)                                 = 0.0312224762927574
+	r(A->C)                                 = 0.0390189643439049
+	r(A->G)                                 = 0.199710961356588
+	r(T->A)                                 = 0.0312224762927574
+	r(T->C)                                 = 0.199710961356588
+	r(T->G)                                 = 0.0390189643439049
+	r(C->A)                                 = 0.0312224762927574
+	r(C->T)                                 = 0.159806157370087
+	r(C->G)                                 = 0.0390189643439049
+	r(G->A)                                 = 0.159806157370087
+	r(G->T)                                 = 0.0312224762927574
+	r(G->C)                                 = 0.0390189643439049

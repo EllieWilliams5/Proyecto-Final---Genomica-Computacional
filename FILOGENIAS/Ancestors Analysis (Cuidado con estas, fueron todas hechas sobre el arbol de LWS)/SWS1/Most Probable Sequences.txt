@@ -1,0 +1,340 @@
+1. Balaenoptera acutorostrata:  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+2. Balaenoptera musculus:       A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+3. Balaenoptera physalus:       A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+4. Bos taurus:                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T C T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G A C C T C A G T A C C A C
+5. Caperea:                     A T G A G C A A G A T G T C A G A G G A G G A G G A A T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+6. Delphinapterus:              A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G C G G G A T G G G C C T C A G T A C C G C
+7. Eschrichtius:                A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+8. Hippopotamus:                A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T G C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+9. Inia:                        A T A A G C A A G A T G T C A G A G G A G G A G G A G T T C T T C T G T T C A A G A A C A T C T C C G T G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+10. Megaptera:                  A T G A G C A A A A T G T C G G A G G A A G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+11. Ovis:                       A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G A C C T C A G T A C C A C
+12. Physeter:                   A T G A G C A A G A T G T C C G A G G A G G A G G A G T T T T T C T G T T C A A G G A C A T C T T G G T G G G G C C G T G G T A T G G G C C T C A G T A C C A C
+13. Platanista:                 A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T G C A A G G A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+14. Pontoporia:                 A T G A G C A A G A C G T C A G A G G A G G A G G A T T T T T T C T G T T C A A G A A C A T C T C C G C G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+15. Sus:                        A T G A G C A A G A T G C C A G A G G A G G A G G A G T T C T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+16. Tursiops truncatus:         A T G A G C A A G A T G T C G G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+17. (2 . 10):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+18. (17 . 3):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+19. (1 . 7):                    A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+20. (18 . 19):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+21. (20 . 5):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+22. (21 . 13):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+23. (22 . 12):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+24. (9 . 14):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T C C G T G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+25. (6 . 24):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+26. (16 . 25):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C G C
+27. (23 . 26):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+28. (4 . 11):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G A C C T C A G T A C C A C
+29. (30 . 28):                  A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+30. (27 . 8):                   A T G A G C A A G A T G T C A G A G G A G G A G G A G T T T T T C T G T T C A A G A A C A T C T T G G T G G G G C C G T G G G A T G G G C C T C A G T A C C A C
+                                                                                                               
+1. Balaenoptera acutorostrata:  C T C A C C C T T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+2. Balaenoptera musculus:       C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C G T C T C T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+3. Balaenoptera physalus:       C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+4. Bos taurus:                  C T C G C G C C T G T C T G G G C C T T C C A G G C A G T C T T C A T G G G T T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C G G T G C T
+5. Caperea:                     C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+6. Delphinapterus:              C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+7. Eschrichtius:                C T C A C C C C T G T C T G G G C C T G C C A G G C A G C C T T C A C G G G C T T T G T C C T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+8. Hippopotamus:                C T C G C C C C T G T C T G G G C C T T T C A G G C A G C T T T C A T G G G C T T T G T C T T C T T T G C A G G G A C G C C A C T C A A C G C T A C C G T G C T
+9. Inia:                        C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A T G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+10. Megaptera:                  C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+11. Ovis:                       C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A T G G G T T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C G G T G C T
+12. Physeter:                   C T C G C C C C T G T C T G G G C C T C C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A C G C C C C T C A A T G C C A C A G C G C T
+13. Platanista:                 C T C G C C C C T T T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+14. Pontoporia:                 C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T T C C A C A G T G C T
+15. Sus:                        C T C G C C C C T G T C T G G G T C T T C C A G G C A G C C T T C A T G G G C T T T G T C T T C C T T G T A G G G A C A C C A C T C A A T G C C A C G G T T C T
+16. Tursiops truncatus:         C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C G A T G C C A C A G T G C T
+17. (2 . 10):                   C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+18. (17 . 3):                   C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+19. (1 . 7):                    C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+20. (18 . 19):                  C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+21. (20 . 5):                   C T C A C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+22. (21 . 13):                  C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A T G C C A C T C A A T G C C A C A G T G C T
+23. (22 . 12):                  C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+24. (9 . 14):                   C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+25. (6 . 24):                   C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+26. (16 . 25):                  C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C G T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+27. (23 . 26):                  C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A C G G G C T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C A G T G C T
+28. (4 . 11):                   C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A T G G G T T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C G G T G C T
+29. (30 . 28):                  C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A T G G G C T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C G G T G C T
+30. (27 . 8):                   C T C G C C C C T G T C T G G G C C T T C C A G G C A G C C T T C A T G G G C T T T G T C T T C T T T G T A G G G A C G C C A C T C A A T G C C A C G G T G C T
+                                                                                                               
+1. Balaenoptera acutorostrata:  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C T C T G G G G G G C T T C A T C T
+2. Balaenoptera musculus:       G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+3. Balaenoptera physalus:       G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C G T G G G G G G C T T C A T C T
+4. Bos taurus:                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A C G T G T C T C T G G G G G G C T T C A T C T
+5. Caperea:                     G G T G G C C A C A C T G T G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+6. Delphinapterus:              G G T G G C C A C A C T G T G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+7. Eschrichtius:                G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A C C C C T G G G G G G C T T C A T C T
+8. Hippopotamus:                G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T G T C C T T G G G G G G C T T C A T C T
+9. Inia:                        G G T G G C C A C A C T G C A C T A C A G A A A G T T G T G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T T C C T G G G G G G C T T C A T C T
+10. Megaptera:                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+11. Ovis:                       T G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C G C T C A A C T A T A T T C T G G T C A A C G T G T C T C T G G G G G G C T T C A T C T
+12. Physeter:                   G G T G G T C A C G C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T G C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+13. Platanista:                 G G T G G C C A C A C T G T G C T A C A G A A A G T T G T G G C A G C C A C T C A A C T A C A T T G T G G T C A A T G T A C C C C T G G G G G G C T T C A T C T
+14. Pontoporia:                 G G T G G C C A C A C T G C G C T A C A G A A A G T T G T G G C A G C C A C T C A A C T A C A T T C T G G C C A A T G T A T C C C T G G G G G G C T T C A T C T
+15. Sus:                        G G T G G C C A C C C T A C G C T A C A G A A A G T T G C G G C A G C C C C T C A A C T A T A T T C T G G T C A A C G T G T C C C T G G G G G G C T T C A T C T
+16. Tursiops truncatus:         G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A C G T A T C C C T G G G G G G C T T C A T C T
+17. (2 . 10):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+18. (17 . 3):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+19. (1 . 7):                    G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+20. (18 . 19):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+21. (20 . 5):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+22. (21 . 13):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+23. (22 . 12):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+24. (9 . 14):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G T G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+25. (6 . 24):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+26. (16 . 25):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+27. (23 . 26):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A C A T T C T G G T C A A T G T A T C C C T G G G G G G C T T C A T C T
+28. (4 . 11):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A C G T G T C T C T G G G G G G C T T C A T C T
+29. (30 . 28):                  G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A C G T G T C C C T G G G G G G C T T C A T C T
+30. (27 . 8):                   G G T G G C C A C A C T G C G C T A C A G A A A G T T G C G G C A G C C A C T C A A C T A T A T T C T G G T C A A T G T G T C C C T G G G G G G C T T C A T C T
+                                                                                                               
+1. Balaenoptera acutorostrata:  A C T C C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C A G C A A C T T C C A C T T
+2. Balaenoptera musculus:       A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+3. Balaenoptera physalus:       A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+4. Bos taurus:                  A C T G C A T C T T C T T C A T C G T C T T C A T C A T T G G C C T T C G A G C G C T A C A T C A T C A T C T G T A A A C C C T T C G G C A A C T T C C G C T T
+5. Caperea:                     A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G T G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+6. Delphinapterus:              A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A C C A C C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+7. Eschrichtius:                A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+8. Hippopotamus:                A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+9. Inia:                        A C T G C A T C T T T T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+10. Megaptera:                  A C T G C A C C T T C T T T G T T G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T G C G G C A A C T T C C A C T T
+11. Ovis:                       A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A A C C C T T C G G C A A C T T C C G C T T
+12. Physeter:                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+13. Platanista:                 A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C C A C G T C A T C A T C T C T A A G C C C T T C G G C A A C T T C C G C T T
+14. Pontoporia:                 A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A G C T T C C G C T T
+15. Sus:                        A C T G C A T C T T C T T C A G C G T C T T C A T T G T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+16. Tursiops truncatus:         A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+17. (2 . 10):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+18. (17 . 3):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+19. (1 . 7):                    A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+20. (18 . 19):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C A C T T
+21. (20 . 5):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+22. (21 . 13):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+23. (22 . 12):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+24. (9 . 14):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+25. (6 . 24):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+26. (16 . 25):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+27. (23 . 26):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G T C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+28. (4 . 11):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A A C C C T T C G G C A A C T T C C G C T T
+29. (30 . 28):                  A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+30. (27 . 8):                   A C T G C A T C T T C T T T G T C G T C T T C A T C A T T G G C C T T T G A G C G C T A C A T C A T C A T C T G T A A G C C C T T C G G C A A C T T C C G C T T
+                                                                                                               
+1. Balaenoptera acutorostrata:  C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C G T C C C A C C C T T C T T T G G C T G G A G C C G G
+2. Balaenoptera musculus:       C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+3. Balaenoptera physalus:       C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+4. Bos taurus:                  C A G C T C C A A G C A T G C C C T G A T G G T G G T C G T G G C C C A T C G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G A
+5. Caperea:                     C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+6. Delphinapterus:              C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G T C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+7. Eschrichtius:                C A G C T C C A A G C A C G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G C G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+8. Hippopotamus:                C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+9. Inia:                        C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+10. Megaptera:                  C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+11. Ovis:                       C A G C T C C A A G C A T G C C C T G A T G G T G G T C G T G G C C C A T C G G T A T T G G T G T C T C C A T C C C A C C C T T C T T C G G C T G G A G C C G A
+12. Physeter:                   C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G C T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+13. Platanista:                 C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C G C T T C T T T G G C T G G A G C C G G
+14. Pontoporia:                 C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+15. Sus:                        C A G C T C C A A G C A T G C A C T G A T A G C G G T C C T G G C C A A T T G G G A T C G G C G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+16. Tursiops truncatus:         C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+17. (2 . 10):                   C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+18. (17 . 3):                   C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+19. (1 . 7):                    C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+20. (18 . 19):                  C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+21. (20 . 5):                   C A G C T C C A A G C A T G C A C T G A C G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+22. (21 . 13):                  C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+23. (22 . 12):                  C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+24. (9 . 14):                   C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+25. (6 . 24):                   C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+26. (16 . 25):                  C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+27. (23 . 26):                  C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+28. (4 . 11):                   C A G C T C C A A G C A T G C C C T G A T G G T G G T C G T G G C C C A T C G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G A
+29. (30 . 28):                  C A G C T C C A A G C A T G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+30. (27 . 8):                   C A G C T C C A A G C A C G C A C T G A T G G T G G T C C T G G C C C A T T G G T A T T G G T G T C T C C A T C C C A C C C T T C T T T G G C T G G A G C C G G
+                                                                                                               
+1. Balaenoptera acutorostrata:  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+2. Balaenoptera musculus:       T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+3. Balaenoptera physalus:       T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+4. Bos taurus:                  T T G T C C C G A G G G C C T G C A G T G T T C C T G T A C C G T G G G C A C A A G T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+5. Caperea:                     T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+6. Delphinapterus:              T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T G T A C C T G G T T T C T C T T C A T T T T C T
+7. Eschrichtius:                T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G G A C T A T A C C T G G T T C C T C T T C A T T T T C T
+8. Hippopotamus:                T T G T C C C G A G G G T C T A C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+9. Inia:                        T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C T G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+10. Megaptera:                  T T G T C C C A A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T C C C T C T T C A T T T T C T
+11. Ovis:                       T T A T C C C G A G G G C C T G C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+12. Physeter:                   T T G T C C C G A G G G T C T T C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+13. Platanista:                 T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G C G G C C A C A A A T A T T A C A G A G T A C A A T A C C C G G T T T C T C T T C A T T T T C T
+14. Pontoporia:                 T T G T C C C G A G G G T C T T C A G T G T C C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+15. Sus:                        T T C T G C C G A G G G C C T G C A G T G T T C C T G T A C C G T G G G C A C A A G T A C T A C A G A G T A T T A T A C C T G G T T C C T C T T C A T C T T C T
+16. Tursiops truncatus:         T T G C C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+17. (2 . 10):                   T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+18. (17 . 3):                   T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+19. (1 . 7):                    T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+20. (18 . 19):                  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+21. (20 . 5):                   T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T T T T C T
+22. (21 . 13):                  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+23. (22 . 12):                  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+24. (9 . 14):                   T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+25. (6 . 24):                   T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+26. (16 . 25):                  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+27. (23 . 26):                  T T G T C C C G A G G G T C T T C A G T G T T C C T G C A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T T C T C T T C A T T T T C T
+28. (4 . 11):                   T T G T C C C G A G G G C C T G C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+29. (30 . 28):                  T T G T C C C G A G G G C C T G C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+30. (27 . 8):                   T T G T C C C G A G G G T C T G C A G T G T T C C T G T A C C G T G G G C A C A A A T A T T A C A G A G T A C T A T A C C T G G T T C C T C T T C A T C T T C T
+                                                                                                               
+1. Balaenoptera acutorostrata:  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+2. Balaenoptera musculus:       G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+3. Balaenoptera physalus:       G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+4. Bos taurus:                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C G G C T C A A C A G
+5. Caperea:                     G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+6. Delphinapterus:              G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T G T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+7. Eschrichtius:                G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+8. Hippopotamus:                G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T T T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C A G C T C A G C A G
+9. Inia:                        G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+10. Megaptera:                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+11. Ovis:                       G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C G G C T C A G C A G
+12. Physeter:                   G C T A C A T T G C G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G A G G T C T T C A G A G C T G T T G C A G T T C A G C A G
+13. Platanista:                 G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+14. Pontoporia:                 G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+15. Sus:                        G C T A C A T C G T G C C T C T C G C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C A G C T C A G C A G
+16. Tursiops truncatus:         G C T A C A C T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+17. (2 . 10):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+18. (17 . 3):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+19. (1 . 7):                    G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+20. (18 . 19):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+21. (20 . 5):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+22. (21 . 13):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+23. (22 . 12):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+24. (9 . 14):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+25. (6 . 24):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+26. (16 . 25):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+27. (23 . 26):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G T C T T C A G A G C T G T T G C A G C T C A G C A G
+28. (4 . 11):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C G G C T C A G C A G
+29. (30 . 28):                  G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C A G C T C A G C A G
+30. (27 . 8):                   G C T A C A T T G T G C C T C T C T C C C T C A T C T G C T T C T C C T A C T C T C A G C T G C T G G G G G C C C T C A G A G C T G T T G C A G C T C A G C A G
+                                                                                                               
+1. Balaenoptera acutorostrata:  C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+2. Balaenoptera musculus:       C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A A C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+3. Balaenoptera physalus:       C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+4. Bos taurus:                  C A G G A G T C A G C T T C G A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T C A T G G G A T C C T T T T G T C T C T G T T A C A
+5. Caperea:                     C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+6. Delphinapterus:              C A G G A G T C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A A G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+7. Eschrichtius:                C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+8. Hippopotamus:                C A G G A G T C A G C C T C T A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T T G T G G T G A T G G G A T C C T T C T G T C T C T G T T A C A
+9. Inia:                        C A G G A G T C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+10. Megaptera:                  C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+11. Ovis:                       C A G G A G T C A G C T T C G A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T C A T G G G A T C C T T T T G T C T C T G T T A C A
+12. Physeter:                   C A G G A G T C A G C T A C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+13. Platanista:                 C A G G A G T C A G C T A C A A C T C A G A A G G C T G A G G G G A G G T G A G C A C A A G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+14. Pontoporia:                 C A G G A G T C A G C T A C C A C C C A G A G G G C T G G G G G G A G G T G A G C A C A T G G T G G T G A C G A T G G G A T C C T T C T G T C T C T G T T G C A
+15. Sus:                        C A G G A G T C A G C T T C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T G A T G G G G T C C T T T T G T G T C T G T T A C A
+16. Tursiops truncatus:         C A G G A G G C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A A G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+17. (2 . 10):                   C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+18. (17 . 3):                   C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+19. (1 . 7):                    C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+20. (18 . 19):                  C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+21. (20 . 5):                   C A G G A G T C A G C T A C A A C C C A G A A A G C T G A G G G G A G G T G A G C A C A C G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T G C A
+22. (21 . 13):                  C A G G A G T C A G C T A C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+23. (22 . 12):                  C A G G A G T C A G C T A C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+24. (9 . 14):                   C A G G A G T C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+25. (6 . 24):                   C A G G A G T C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+26. (16 . 25):                  C A G G A G T C A G C T A C A A C C C A G A A G G C T G G G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+27. (23 . 26):                  C A G G A G T C A G C T A C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G A T G A T G G G A T C C T T C T G T C T C T G T T A C A
+28. (4 . 11):                   C A G G A G T C A G C T T C G A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T C A T G G G A T C C T T T T G T C T C T G T T A C A
+29. (30 . 28):                  C A G G A G T C A G C T T C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T G A T G G G A T C C T T T T G T C T C T G T T A C A
+30. (27 . 8):                   C A G G A G T C A G C T T C A A C C C A G A A G G C T G A G G G G A G G T G A G C A C A T G G T G G T G G T G A T G G G A T C C T T C T G T C T C T G T T A C A
+                                                                                                               
+1. Balaenoptera acutorostrata:  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+2. Balaenoptera musculus:       C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+3. Balaenoptera physalus:       C G C C C T A T G C T G C C C T G G C C A T G T A T A C A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+4. Bos taurus:                  C A C C C T A C G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G C T T G T C A C C A T T C C T G C C
+5. Caperea:                     C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+6. Delphinapterus:              C G C C C T A T G C T G C C C T G G C C A C A T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T C C C T G C C
+7. Eschrichtius:                C G C C C T A T G C T G C C C T G G C C A C G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+8. Hippopotamus:                C A C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A T T T A C G G T T T G T C A C C A T T C C T G C C
+9. Inia:                        C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A G C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+10. Megaptera:                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C A T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+11. Ovis:                       C A C C C T A C G C T G C C C T G G C C A T G T A C A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G C T T G T C A C C A T T C C T G C C
+12. Physeter:                   C G C C C T G T G C T G C C C T G G C C A T G T A T A C A G T C A A C A A C C G T A A C C A C A G G G T G G A C T T A T G G T T T G T C A C C A T T C C T G C C
+13. Platanista:                 C G C C C T A T G C T G C C C C G G C C A T G T A T A T A G T C A A C A A G C G T A A C C A C G G G G T G G G C T T A C G G T T T G T C A C C A T T C C T G C C
+14. Pontoporia:                 C G C C C T G T G C T G C C C T G G C C A T G T A T A C A T T C A G C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+15. Sus:                        C G C C C T A C G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G G A A C C A C G G G G T G G A C C T A C G G C T T G T C A C C A T T C C T G C C
+16. Tursiops truncatus:         C G C C C T A C G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C A T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T T C T G C C
+17. (2 . 10):                   C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+18. (17 . 3):                   C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+19. (1 . 7):                    C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+20. (18 . 19):                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+21. (20 . 5):                   C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+22. (21 . 13):                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+23. (22 . 12):                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+24. (9 . 14):                   C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A G C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+25. (6 . 24):                   C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+26. (16 . 25):                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+27. (23 . 26):                  C G C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A C G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+28. (4 . 11):                   C A C C C T A C G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G C T T G T C A C C A T T C C T G C C
+29. (30 . 28):                  C A C C C T A C G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G C T T G T C A C C A T T C C T G C C
+30. (27 . 8):                   C A C C C T A T G C T G C C C T G G C C A T G T A T A T A G T C A A C A A C C G T A A C C A T G G G G T G G A C T T A C G G T T T G T C A C C A T T C C T G C C
+                                                                                                               
+1. Balaenoptera acutorostrata:  T T C T T C T C C A A G A G T G C T T G T G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+2. Balaenoptera musculus:       T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+3. Balaenoptera physalus:       T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+4. Bos taurus:                  T T C T T C T C C A A G A G T G C T T G T G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+5. Caperea:                     T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+6. Delphinapterus:              T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T C C A T C A T G G A
+7. Eschrichtius:                T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+8. Hippopotamus:                T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C T A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+9. Inia:                        T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A C C T G C T G C T T C A T G A A T A A A C A G T T C C G A G C T T G C A T C A T G G A
+10. Megaptera:                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+11. Ovis:                       T T C T T C T C C A A G A G T G C T T G T G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+12. Physeter:                   T T C T T C T C C A A G A G T G C T T G C A T C T A C A A T C C C A T T G T C T A C T G C T T C A T G A A T A A G C A G T T C C A A G C T C G C A T C A T G G A
+13. Platanista:                 T T C T T C T C C A A G A G T G C T T G C G C C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G C T C C G A G C T T G C A T C A T G G A
+14. Pontoporia:                 T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+15. Sus:                        T T C T T C T C C A A G A G T G C T T G C A T C T A C A A T C C G A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+16. Tursiops truncatus:         T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C A A G C T T G C A T C A T G G A
+17. (2 . 10):                   T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+18. (17 . 3):                   T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+19. (1 . 7):                    T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+20. (18 . 19):                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+21. (20 . 5):                   T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+22. (21 . 13):                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+23. (22 . 12):                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+24. (9 . 14):                   T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+25. (6 . 24):                   T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+26. (16 . 25):                  T T C T T C C C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+27. (23 . 26):                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+28. (4 . 11):                   T T C T T C T C C A A G A G T G C T T G T G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+29. (30 . 28):                  T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+30. (27 . 8):                   T T C T T C T C C A A G A G T G C T T G C G T C T A C A A T C C C A T C A T C T A C T G C T T C A T G A A T A A G C A G T T C C G A G C T T G C A T C A T G G A
+                                                                                                               
+1. Balaenoptera acutorostrata:  G A T G G T G T G T A G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+2. Balaenoptera musculus:       G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+3. Balaenoptera physalus:       G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+4. Bos taurus:                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A G C T C T A G C T C C C A G A A A A C C                         
+5. Caperea:                     G A T G G T G T G T G G A A A C C C A T G G C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+6. Delphinapterus:              G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+7. Eschrichtius:                G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A C C T A G C T C C C A G A A A A T G                         
+8. Hippopotamus:                G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C G T C C A G C T C C C A G A A A A C A                         
+9. Inia:                        G A C G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C G G A A A A T G                         
+10. Megaptera:                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+11. Ovis:                       A A T G G T G T G T G G A A A C C C A T G A C A G A C G A G T C T G A A G T C T A G C T C C C A G A A A A C C                         
+12. Physeter:                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+13. Platanista:                 G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+14. Pontoporia:                 G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+15. Sus:                        G A T G G T G T G C G G A A A C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A C C                         
+16. Tursiops truncatus:         G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+17. (2 . 10):                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+18. (17 . 3):                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+19. (1 . 7):                    G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+20. (18 . 19):                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+21. (20 . 5):                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C C G A C A T C T A G C T C C C A G A A A A T G                         
+22. (21 . 13):                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+23. (22 . 12):                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+24. (9 . 14):                   G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+25. (6 . 24):                   G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+26. (16 . 25):                  G A T G G T G T G T G G A A G C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+27. (23 . 26):                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C A T C T A G C T C C C A G A A A A T G                         
+28. (4 . 11):                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A A G T C T A G C T C C C A G A A A A C C                         
+29. (30 . 28):                  G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C G T C T A G C T C C C A G A A A A C C                         
+30. (27 . 8):                   G A T G G T G T G T G G A A A C C C A T G A C A G A T G A G T C T G A C G T C T A G C T C C C A G A A A A C G                         

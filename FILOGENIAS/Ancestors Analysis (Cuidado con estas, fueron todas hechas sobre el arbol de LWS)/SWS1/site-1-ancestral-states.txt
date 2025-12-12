@@ -1,0 +1,21 @@
+Character State Probabilities for Inferred Ancestral Sequences at Site #1
+
+Node ID   Children                                     A           C           G           T          
+17        (Balaenoptera musculus . Megaptera)           1.0000                                        
+18        (17 . Balaenoptera physalus)                  1.0000                                        
+19        (Balaenoptera acutorostrata . Eschrichtius)   1.0000                                        
+20        (18 . 19)                                     1.0000                                        
+21        (20 . Caperea)                                1.0000                                        
+22        (21 . Platanista)                             1.0000                                        
+23        (22 . Physeter)                               1.0000                                        
+24        (Inia . Pontoporia)                           1.0000                                        
+25        (Delphinapterus . 24)                         1.0000                                        
+26        (Tursiops truncatus . 25)                     1.0000                                        
+27        (23 . 26)                                     1.0000                                        
+28        (Bos taurus . Ovis)                           1.0000                                        
+29        (30 . 28)                                     1.0000                                        
+30        (27 . Hippopotamus)                           1.0000                                        
+
+Note:
+	Probabilities < 0.9 are enclosed in square brackets "[]"
+	Probabilities < 0.5 are enclosed in parenthesis "()"

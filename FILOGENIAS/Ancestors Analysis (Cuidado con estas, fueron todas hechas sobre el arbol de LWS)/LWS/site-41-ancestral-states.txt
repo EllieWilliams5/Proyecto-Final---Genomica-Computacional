@@ -1,0 +1,34 @@
+Character State Probabilities for Inferred Ancestral Sequences at Site #41
+
+Node ID   Children                                     A           C           G           T          
+30        (Balaenoptera musculus . Megaptera)           1.0000                                        
+31        (30 . Balaenoptera physalus)                  1.0000                                        
+32        (Balaenoptera acutorostrata . Eschrichtius)   1.0000                                        
+33        (31 . 32)                                     1.0000                                        
+34        (Balaena . Caperea)                           1.0000                                        
+35        (Eubalaena . 34)                              1.0000                                        
+36        (33 . 35)                                     1.0000                                        
+37        (36 . Platanista)                             1.0000                                        
+38        (Kogia . Physeter)                            1.0000                                        
+39        (37 . 38)                                     1.0000                                        
+40        (Globicephala melas . Tursiops truncatus)     1.0000                                        
+41        (40 . Delphinus delphis)                      1.0000                                        
+42        (Inia . Pontoporia)                           1.0000                                        
+43        (Phocoena phocoena . Phocoenoides)            1.0000                                        
+44        (Neophocaena . 43)                            1.0000                                        
+45        (Delphinapterus . 44)                         1.0000                                        
+46        (42 . 45)                                     1.0000                                        
+47        (41 . 46)                                     1.0000                                        
+48        (39 . 47)                                     1.0000                                        
+49        (Berardius bairdii . Ziphius)                 1.0000                                        
+50        (Mesoplodon . Tasmacetus)                     1.0000                                        
+51        (49 . 50)                                     1.0000                                        
+52        (48 . 51)                                     1.0000                                        
+53        (Bos taurus . Ovis)                           1.0000                                        
+54        (Odocoileus virginianus . 53)                 1.0000                                        
+55        (56 . 54)                                     0.9997                 (0.0003)               
+56        (52 . Hippopotamus)                           1.0000                                        
+
+Note:
+	Probabilities < 0.9 are enclosed in square brackets "[]"
+	Probabilities < 0.5 are enclosed in parenthesis "()"
